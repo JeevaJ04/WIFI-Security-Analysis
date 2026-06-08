@@ -51,7 +51,7 @@ Chart.js
 Font Awesome
 Machine Learning
 Isolation Forest Algorithm
-📂 Project Structure
+
 wifi-security-analyzer/
 │
 ├── app.py
